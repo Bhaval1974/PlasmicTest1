@@ -1,0 +1,62 @@
+.ariaDialogTrigger:global(.__wab_instance) {
+  position: relative;
+}
+.button__isjru:global(.__wab_instance):global(.__wab_instance) {
+  max-width: 100%;
+}
+.svg__iWIuv {
+  position: relative;
+  height: 1em;
+}
+.svg__bbeHc {
+  position: relative;
+  height: 1em;
+}
+.ariaPopover:global(.__wab_instance) {
+  font-family: var(--token-lDa_6luQP-ki);
+  font-size: var(--token-2pwaCVY1mivl);
+  color: var(--token-o_ASBHLr6GJh);
+  line-height: var(--token-bIlGl3NAfgoG);
+  box-shadow: 0px 0px 20px 0px #00000040;
+  border-radius: var(--token-iQcNejNaGN_b);
+}
+.ariaDialog:global(.__wab_instance) {
+  object-fit: cover;
+  outline-style: none;
+}
+.freeBox___0PIFn {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: var(--token-ecQUzF6up4ex);
+  width: 320px;
+  border-radius: var(--token-iQcNejNaGN_b);
+  padding: var(--token-0cQNFVUwEoXu);
+}
+.freeBox___0PIFn > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: calc(0px - var(--token-12zbmbx62HZx));
+  height: calc(100% + var(--token-12zbmbx62HZx));
+}
+.freeBox___0PIFn > :global(.__wab_flex-container) > *,
+.freeBox___0PIFn > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___0PIFn > :global(.__wab_flex-container) > picture > img,
+.freeBox___0PIFn
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: var(--token-12zbmbx62HZx);
+}
+.text__tkOhk {
+  position: relative;
+}
+.text__yNz1V {
+  position: relative;
+  font-weight: 500;
+}
+.text___2Nnh5 {
+  position: relative;
+}
